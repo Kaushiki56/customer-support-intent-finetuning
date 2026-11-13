@@ -1,0 +1,105 @@
+text,label,source,true_label,predicted_label,true_intent,predicted_intent,correct
+I am frustrated by the lack of communication from your team.,7,synthetic,7,7,General Complaint,General Complaint,True
+I received the wrong item in order ORD10081.,6,synthetic,6,6,Return / Exchange,Return / Exchange,True
+The website will not let me sign in.,3,manual,3,3,Account Access,Account Access,True
+I received a delivery delay notification for order ORD10052.,2,synthetic,2,2,Delivery Issue,Delivery Issue,True
+How can I return order ORD10081?,6,synthetic,6,6,Return / Exchange,Return / Exchange,True
+What are the dimensions of the speaker?,5,synthetic,5,5,Product Inquiry,Product Inquiry,True
+Can I see the technical details for the keyboard?,5,synthetic,5,5,Product Inquiry,Product Inquiry,True
+The courier has not delivered order ORD10030.,2,synthetic,2,2,Delivery Issue,Delivery Issue,True
+What is the procedure for returning order ORD10066?,6,synthetic,6,6,Return / Exchange,Return / Exchange,True
+I need to exchange the item delivered in order ORD10019.,6,synthetic,6,6,Return / Exchange,Return / Exchange,True
+I need to cancel order ORD10080 before dispatch.,4,synthetic,4,4,Order Cancellation,Order Cancellation,True
+Where can I submit a return request for order ORD10027?,6,synthetic,6,6,Return / Exchange,Return / Exchange,True
+I received an error after submitting payment for order ORD10099.,0,synthetic,0,0,Payment Issue,Payment Issue,True
+What sizes are available for the backpack?,5,synthetic,5,5,Product Inquiry,Product Inquiry,True
+Money was deducted but order ORD10072 was not confirmed.,0,synthetic,0,0,Payment Issue,Payment Issue,True
+I selected the wrong item and need to cancel order ORD10075.,4,synthetic,4,4,Order Cancellation,Order Cancellation,True
+I have not received my speaker yet.,2,synthetic,2,7,Delivery Issue,General Complaint,False
+Is the camera suitable for everyday use?,5,synthetic,5,5,Product Inquiry,Product Inquiry,True
+I cannot complete payment for order ORD10005.,0,synthetic,0,0,Payment Issue,Payment Issue,True
+The tracking page for order ORD10072 has not updated.,2,synthetic,2,2,Delivery Issue,Delivery Issue,True
+I received a delivery delay notification for order ORD10073.,2,synthetic,2,2,Delivery Issue,Delivery Issue,True
+Is the phone compatible with my device?,5,synthetic,5,5,Product Inquiry,Product Inquiry,True
+Can you provide more information about the headphones?,5,synthetic,5,5,Product Inquiry,Product Inquiry,True
+The payment system keeps failing when I try to buy laptop.,0,synthetic,0,0,Payment Issue,Payment Issue,True
+I need to exchange the item delivered in order ORD10038.,6,synthetic,6,6,Return / Exchange,Return / Exchange,True
+Is the phone currently in stock?,5,synthetic,5,5,Product Inquiry,Product Inquiry,True
+I cannot pay for speaker using online banking.,0,synthetic,0,0,Payment Issue,Payment Issue,True
+The overall service quality has been unacceptable.,7,synthetic,7,7,General Complaint,General Complaint,True
+Where is my refund for order ORD10051?,1,synthetic,1,1,Refund Request,Refund Request,True
+I was charged twice for order ORD10012.,0,synthetic,0,0,Payment Issue,Payment Issue,True
+What is the procedure for returning order ORD10069?,6,synthetic,6,6,Return / Exchange,Return / Exchange,True
+The transaction for speaker is showing as unsuccessful.,0,synthetic,0,0,Payment Issue,Payment Issue,True
+My bank has not received the refund for order ORD10067.,1,synthetic,1,1,Refund Request,Refund Request,True
+I need help with a duplicate charge on order ORD10004.,0,synthetic,0,0,Payment Issue,Payment Issue,True
+The payment status for order ORD10010 is incorrect.,0,synthetic,0,0,Payment Issue,Payment Issue,True
+I need assistance cancelling order ORD10088.,4,synthetic,4,4,Order Cancellation,Order Cancellation,True
+Is the tablet compatible with my device?,5,synthetic,5,5,Product Inquiry,Product Inquiry,True
+What features does the backpack have?,5,synthetic,5,5,Product Inquiry,Product Inquiry,True
+Is it still possible to cancel order ORD10072?,4,synthetic,4,4,Order Cancellation,Order Cancellation,True
+Where is my refund for order ORD10006?,1,synthetic,1,1,Refund Request,Refund Request,True
+The expected delivery date for order ORD10015 has passed.,2,synthetic,2,2,Delivery Issue,Delivery Issue,True
+The payment status for order ORD10022 is incorrect.,0,synthetic,0,0,Payment Issue,Payment Issue,True
+I do not want order ORD10038 anymore.,4,synthetic,4,4,Order Cancellation,Order Cancellation,True
+Your support team has not handled my issue properly.,7,synthetic,7,7,General Complaint,General Complaint,True
+What materials are used to make the jacket?,5,synthetic,5,5,Product Inquiry,Product Inquiry,True
+Why has the refund for order ORD10036 not been processed?,1,synthetic,1,1,Refund Request,Refund Request,True
+Can you stop order ORD10022 before it ships?,4,synthetic,4,4,Order Cancellation,Order Cancellation,True
+I selected the wrong item and need to cancel order ORD10094.,4,synthetic,4,4,Order Cancellation,Order Cancellation,True
+I received the wrong item in order ORD10002.,6,synthetic,6,6,Return / Exchange,Return / Exchange,True
+I was charged twice for order ORD10019.,0,synthetic,0,0,Payment Issue,Payment Issue,True
+I cancelled order ORD10098 but have not received the refund.,1,synthetic,1,1,Refund Request,Refund Request,True
+I need to return order ORD10074 because the item is unsuitable.,6,synthetic,6,6,Return / Exchange,Return / Exchange,True
+I keep receiving an invalid password message.,3,manual,3,3,Account Access,Account Access,True
+Is it still possible to cancel order ORD10069?,4,synthetic,4,4,Order Cancellation,Order Cancellation,True
+My registered phone number is not being recognized.,3,manual,3,3,Account Access,Account Access,True
+Can you explain the specifications of the watch?,5,synthetic,5,5,Product Inquiry,Product Inquiry,True
+What is the price of the camera?,5,synthetic,5,5,Product Inquiry,Product Inquiry,True
+Order ORD10044 has been out for delivery since yesterday.,2,synthetic,2,2,Delivery Issue,Delivery Issue,True
+I paid for order ORD10050 but received no confirmation.,0,synthetic,0,0,Payment Issue,Payment Issue,True
+I need assistance cancelling order ORD10028.,4,synthetic,4,4,Order Cancellation,Order Cancellation,True
+Where can I submit a return request for order ORD10097?,6,synthetic,6,6,Return / Exchange,Return / Exchange,True
+The expected delivery date for order ORD10060 has passed.,2,synthetic,2,2,Delivery Issue,Delivery Issue,True
+The expected delivery date for order ORD10013 has passed.,2,synthetic,2,2,Delivery Issue,Delivery Issue,True
+I cancelled order ORD10088 but have not received the refund.,1,synthetic,1,1,Refund Request,Refund Request,True
+The refund amount for order ORD10006 is missing.,1,synthetic,1,1,Refund Request,Refund Request,True
+I have repeatedly contacted support without getting a response.,7,synthetic,7,7,General Complaint,General Complaint,True
+I received a delivery delay notification for order ORD10001.,2,synthetic,2,2,Delivery Issue,Delivery Issue,True
+Please withdraw my order ORD10071.,4,synthetic,4,4,Order Cancellation,Order Cancellation,True
+Is it still possible to cancel order ORD10016?,4,synthetic,4,4,Order Cancellation,Order Cancellation,True
+The account authentication page shows an error.,3,manual,3,3,Account Access,Account Access,True
+Can you explain the specifications of the headphones?,5,synthetic,5,5,Product Inquiry,Product Inquiry,True
+The promised refund date for order ORD10039 has passed.,1,synthetic,1,1,Refund Request,Refund Request,True
+I received a delivery delay notification for order ORD10060.,2,synthetic,2,2,Delivery Issue,Delivery Issue,True
+I need help with a duplicate charge on order ORD10010.,0,synthetic,0,0,Payment Issue,Payment Issue,True
+The login screen freezes when I enter my credentials.,3,manual,3,3,Account Access,Account Access,True
+Can you help me arrange a return for tablet?,6,synthetic,6,6,Return / Exchange,Return / Exchange,True
+The tracking page for order ORD10021 has not updated.,2,synthetic,2,2,Delivery Issue,Delivery Issue,True
+The assistance I received was not satisfactory.,7,synthetic,7,7,General Complaint,General Complaint,True
+My account sign-in fails every time I try.,3,synthetic,3,3,Account Access,Account Access,True
+How can I return order ORD10008?,6,synthetic,6,6,Return / Exchange,Return / Exchange,True
+The tracking page for order ORD10056 has not updated.,2,synthetic,2,2,Delivery Issue,Delivery Issue,True
+I paid for order ORD10013 but received no confirmation.,0,synthetic,0,0,Payment Issue,Payment Issue,True
+I cancelled order ORD10009 but have not received the refund.,1,synthetic,1,1,Refund Request,Refund Request,True
+I would like to complain about the service I received.,7,synthetic,7,7,General Complaint,General Complaint,True
+Please withdraw my order ORD10095.,4,synthetic,4,4,Order Cancellation,Order Cancellation,True
+How long is the warranty on the speaker?,5,synthetic,5,5,Product Inquiry,Product Inquiry,True
+I selected the wrong item and need to cancel order ORD10021.,4,synthetic,4,4,Order Cancellation,Order Cancellation,True
+My refund request for order ORD10065 is pending.,1,synthetic,1,1,Refund Request,Refund Request,True
+Where can I submit a return request for order ORD10095?,6,synthetic,6,6,Return / Exchange,Return / Exchange,True
+The refund for order ORD10088 is still under review.,1,synthetic,1,1,Refund Request,Refund Request,True
+Where can I submit a return request for order ORD10003?,6,synthetic,6,6,Return / Exchange,Return / Exchange,True
+How long will my refund take for order ORD10014?,1,synthetic,1,1,Refund Request,Refund Request,True
+I cannot complete payment for order ORD10080.,0,synthetic,0,0,Payment Issue,Payment Issue,True
+Please cancel order ORD10044.,4,synthetic,4,4,Order Cancellation,Order Cancellation,True
+The one-time password is not being accepted.,3,synthetic,3,3,Account Access,Account Access,True
+My package for order ORD10002 has not arrived.,2,synthetic,2,2,Delivery Issue,Delivery Issue,True
+Please check the refund for order ORD10070.,1,synthetic,1,1,Refund Request,Refund Request,True
+My refund request for order ORD10022 is pending.,1,synthetic,1,1,Refund Request,Refund Request,True
+How can I return order ORD10042?,6,synthetic,6,6,Return / Exchange,Return / Exchange,True
+Please cancel order ORD10020.,4,synthetic,4,4,Order Cancellation,Order Cancellation,True
+Can you provide more information about the jacket?,5,synthetic,5,5,Product Inquiry,Product Inquiry,True
+The login page keeps showing an error.,3,synthetic,3,3,Account Access,Account Access,True
+I received a delivery delay notification for order ORD10067.,2,synthetic,2,2,Delivery Issue,Delivery Issue,True
+I need an update on my refund for backpack.,1,synthetic,1,1,Refund Request,Refund Request,True

@@ -1,0 +1,9 @@
+Actual Intent,Payment Issue,Refund Request,Delivery Issue,Account Access,Order Cancellation,Product Inquiry,Return / Exchange,General Complaint
+Payment Issue,15,0,0,0,0,0,0,0
+Refund Request,0,15,0,0,0,0,0,0
+Delivery Issue,0,0,14,0,0,0,0,1
+Account Access,0,0,0,8,0,0,0,0
+Order Cancellation,0,0,0,0,15,0,0,0
+Product Inquiry,0,0,0,0,0,15,0,0
+Return / Exchange,0,0,0,0,0,0,15,0
+General Complaint,0,0,0,0,0,0,0,6
